@@ -1,5 +1,5 @@
 ## Concurrency Management
-This is a simple module in which we compered different strategies of concurrency management including Tasklet, Work queue and shared queue in terms of delay and possible deadlocks.
+This is a simple module in which we compered different strategies of concurrency management including Tasklet, Work queue and shared queue in terms of delay and possible deadlocks.   
 For isntallation, first you should make the module.
 ```
 $ sudo make
